@@ -7,7 +7,8 @@
   TCJ Nihongo books screenshot extractor
 </h1>
 
-This is a project for personal use to extract the screenshots of the `https://tcj-nihongo.actibookone.com` website. The screenshots are used for personal study purposes only.
+**This is a project for personal use to extract the screenshots of the `https://tcj-nihongo.actibookone.com` website.**
+The generated screenshots are used for personal study purposes only.
 
 ## 🚀 Usage
 
